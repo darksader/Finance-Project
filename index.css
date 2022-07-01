@@ -1,0 +1,41 @@
+body.primary{
+  font-family:'Oswald', sans-serif;
+  background-color:   rgb(126, 126, 231);
+}
+h1 {
+  color: rgb(50, 128, 128);
+  font-weight: 1000;
+  margin:auto;
+  padding:50px 900px 20px;
+  font-size: 75px;
+  border-top:50px black;
+}
+h2.primary {
+  color: goldenrod;
+  font-weight: 500;
+  margin:auto;
+  padding: 20px 300px;
+}
+h4 {
+  color:red;
+  border: 5px black;
+  padding: 10px 1200px;
+  background-color: grey; 
+}
+p {
+  color: silver;
+  padding: 10px;
+}
+.info-card{
+  border: 5px solid green;
+  flex: 50%;
+  margin:5px  50px;
+  background-color: green;
+}
+.row{
+  display: flex;
+}
+body.secondary{
+  background-color: red;
+
+}
